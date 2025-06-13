@@ -53,8 +53,4 @@ YogaAlign/
 * **Practical Skills Demonstration:** Shows proficiency in AI, computer vision, and software integration—valuable for roles in ML engineering, software development, and product design.
 * **Scalability Ideas:** Potential to extend into mobile apps, wearable integration, or virtual coaching platforms.
 
-## 🚀 How to Use This in Hiring Context
-
-* **Interview Talking Points:** Candidates can discuss challenges like real-time processing, model accuracy, and user experience improvements.
-* **Skill Showcase:** Highlights teamwork, problem-solving, and ability to apply AI in a health-tech domain.
-
+### Thank You!!!
