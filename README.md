@@ -42,7 +42,7 @@ YogaAlign/
 
 ## 🤝 Team & Roles
 
-* **Shailendra Sanjeevkumar Bhosale:** Machine model design and training.
+* **Shailendra Bhosale:** Machine model design and training.
 * **Chirantan Chaudhari:** System Integration & Developing UI feedback.
 * **Atharv Dabhade:** Handled model's body landmark integration and image processing modules.
 * **Sairaj Deshmukh:** Managed overall system architecture and documentation.
