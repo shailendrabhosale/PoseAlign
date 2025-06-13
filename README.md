@@ -29,7 +29,7 @@ YogaAlign/
 ├── src/                  # Core code: pose detection, classification, feedback logic
 ├── model/                # Trained AI model and related files
 ├── dataset/              # Labeled images used for training
-├── main.py               # Starts the camera feed and analysis
+├── GUI_main.py           # Starts the User Interface for camera feed and analysis
 ├── requirements.txt      # Python dependencies list
 └── README.md             # This document
 ```
@@ -40,17 +40,16 @@ YogaAlign/
 2. **Run Application:** Launch `main.py` to start webcam-based posture analysis.
 3. **Observe Feedback:** The system displays detected pose and highlights areas needing adjustment.
 
-*(Detailed installation commands and environment setup are documented in the repository for developers.)*
-
 ## 🤝 Team & Roles
 
-* **Shailendra Sanjeevkumar Bhosale:** Lead on AI model design and training.
-* **Chirantan Chaudhari:** Handled body landmark integration and image processing modules.
-* **Atharv Dabhade:** Managed overall system architecture, testing, and documentation.
+* **Shailendra Sanjeevkumar Bhosale:** Machine model design and training.
+* **Chirantan Chaudhari:** System Integration & Developing UI feedback.
+* **Atharv Dabhade:** Handled model's body landmark integration and image processing modules.
+* **Sairaj Deshmukh:** Managed overall system architecture and documentation.
 
 ## 📈 Impact & Future Prospects
 
 * **Practical Skills Demonstration:** Shows proficiency in AI, computer vision, and software integration—valuable for roles in ML engineering, software development, and product design.
 * **Scalability Ideas:** Potential to extend into mobile apps, wearable integration, or virtual coaching platforms.
 
-### Thank You!!!
+## Thank You!!!
