@@ -1,7 +1,5 @@
 # YogaAlign: Yoga Posture Detection using Machine Learning
 
-**Short & Catchy:** Your AI Yoga Coach: Instant Posture Feedback for Safer, Smarter Practice
-
 > Final Year Project - B.E. Computer Engineering, Group 12
 
 ## 🌟 Project Overview
@@ -42,7 +40,7 @@ YogaAlign/
 
 ## 🤝 Team & Roles
 
-* **Shailendra Bhosale:** Machine model design and training.
+* **Shailendra Bhosale:** Designing and Training the Machine Learning & Deep Learning Model.
 * **Chirantan Chaudhari:** System Integration & Developing UI feedback.
 * **Atharv Dabhade:** Handled model's body landmark integration and image processing modules.
 * **Sairaj Deshmukh:** Managed overall system architecture and documentation.
